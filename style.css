@@ -1,4 +1,4 @@
-ody {
+body {
   background-color: rgb(233 223 243);
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
@@ -11,7 +11,7 @@ ody {
   padding: 20px;
   margin: auto;
   border: solid;
-  margin-top: 150px ;
+  margin-top: 150px;
 }
 .me {
   word-break: break-all;
